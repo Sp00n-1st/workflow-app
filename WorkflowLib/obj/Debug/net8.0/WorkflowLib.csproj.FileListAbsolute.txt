@@ -1,0 +1,12 @@
+D:\Gap Analysis\WorkflowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.deps.json
+D:\Gap Analysis\WorkflowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.dll
+D:\Gap Analysis\WorkflowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.pdb
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.AssemblyReference.cache
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfoInputs.cache
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfo.cs
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.CoreCompileInputs.cache
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.dll
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\refint\WorkflowLib.dll
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.pdb
+D:\Gap Analysis\WorkflowApp\WorkflowLib\obj\Debug\net8.0\ref\WorkflowLib.dll
